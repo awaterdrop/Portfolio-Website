@@ -1,0 +1,23 @@
+$link-color: blue;
+
+.main-footer {
+  padding: 10px 20px 18px;
+  text-align: center;
+  background-color: #CFD8DC;
+}
+
+.main-footer a:link {
+  color: $link-color;
+}
+
+.main-footer a:visited {
+  color: $link-color;
+}
+
+.main-footer a:hover {
+  color: $link-color;
+}
+
+.main-footer a:active {
+  color: $link-color;
+}

@@ -15,5 +15,12 @@
         "icon": "./assets/github-mark.svg"
       }
     ]
+  },
+  "footer": {
+    "author": "awaterdrop",
+    "license": "MIT",
+    "license_url": "https://github.com/awaterdrop/portfolio-website/blob/main/LICENSE",
+    "theme_url_name": "Github",
+    "theme_url": "https://github.com/awaterdrop/portfolio-website"
   }
 }
