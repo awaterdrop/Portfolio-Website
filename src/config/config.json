@@ -1,0 +1,19 @@
+{
+  "header": {
+    "logo_path": "./assets/logo.svg",
+    "nav_items": [
+      "HOME",
+      "ABOUT ME",
+      "SKILLS",
+      "PROJECTS",
+      "CONTACT ME"
+    ],
+    "social_media": [
+      {
+        "name": "github",
+        "url": "https://github.com/awaterdrop",
+        "icon": "./assets/github-mark.svg"
+      }
+    ]
+  }
+}
